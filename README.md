@@ -1,5 +1,4 @@
 ## Visualization of Global Wind and Weather
-=====
 
 ## Building and Launching
 ----------------------
