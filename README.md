@@ -5,6 +5,7 @@
 ----------------------
 
 After installing node.js and npm,
+
     cd Visualization of Global Wind and Weather
     npm install
 
@@ -87,4 +88,8 @@ Building this project required solutions to some interesting problems. Here are 
 ## Outputs
 -----------
 
-![Screenshot](Result.jpg)
+![Screenshot](one.png)
+
+![Screenshot](two.png)
+
+![Screenshot](three.png)
